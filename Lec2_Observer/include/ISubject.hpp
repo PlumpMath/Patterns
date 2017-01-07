@@ -7,7 +7,7 @@
 #pragma once 
 
 #include "IObserver.hpp"
-#import <memory>
+#include <memory>
 
 class ISubject {
 public:
