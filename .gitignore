@@ -4,8 +4,6 @@
 
 # IntelliJ project files
 .idea/
-.idea/misc.xml
-.idea/vcs.xml
 *.iml
 out
 gen### JetBrains template
@@ -13,8 +11,6 @@ gen### JetBrains template
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-.idea/workspace.xml
-.idea/tasks.xml
 
 # Sensitive or high-churn files:
 .idea/dataSources/
@@ -234,7 +230,6 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
-# TODO: Comment the next line if you want to checkin your web deploy settings
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
@@ -405,8 +400,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .gitignor
-.idea/Patterns.iml
-.idea/modules.xml
+
 cmake-build-debug/
 Lec1_Strategy/include/
 Lec1_Strategy/src/
