@@ -406,3 +406,5 @@ Temporary Items
 .idea/Patterns.iml
 .idea/modules.xml
 cmake-build-debug/
+Lec1_Strategy/include/
+Lec1_Strategy/src/
