@@ -3,7 +3,7 @@
 ### Example user template
 
 # IntelliJ project files
-.idea
+.idea/
 .idea/misc.xml
 .idea/vcs.xml
 *.iml
@@ -404,7 +404,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-.gitignore
+.gitignor
 .idea/Patterns.iml
 .idea/modules.xml
 cmake-build-debug/
